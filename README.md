@@ -10,6 +10,8 @@ A good usecase of this library is to gather data to plot in a Jupyter Notebook, 
 
 Learn more about [OpenFisheries.org](openfisheries.org).
 
+Here is a [List of ASFIS codes with species names](https://www.iccat.int/Documents/SCRS/Manual/Appendices/Appendix_5_1_Bycatch_SpeciesList.pdf).
+
 #### this package depends on [Requests](https://pypi.org/project/requests/).
 
 
@@ -80,3 +82,5 @@ Summarizes what has been returned from OpenFisheries.
 
 #### label()
 Useful as a legend / for plots.
+
+
