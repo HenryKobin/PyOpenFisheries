@@ -1,6 +1,6 @@
 # PyOpenFisheries
-[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.org/project/pyopenfisheries/)
-[![Downloads](https://pepy.tech/badge/pyopenfisheries)](https://pepy.tech/project/pyopenfisheries)
+[![PyPI version](https://badge.fury.io/py/pyopenfisheries.svg)](https://badge.fury.io/py/pyopenfisheries)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 PyOpenFisheries makes it even easier to access the [OpenFisheries API](https://github.com/OpenFisheries/api.openfisheries.org) in Python.
 
